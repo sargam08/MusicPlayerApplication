@@ -1,4 +1,4 @@
-  **MUSIC PLAYER APPLICATION**
+ #  MUSIC PLAYER APPLICATION
 
 A command-line-based Music Player built in Java that simulates managing music albums, songs, and playlists. It supports adding songs, creating playlists, and controlling playback (next, previous, replay).
 
@@ -77,14 +77,14 @@ press
 
 # Project Structure
 
-/.gitignore                     # Git ignore rules
-.idea/                          # IDE configuration files (IntelliJ)
-src/                            # Source code
+/.gitignore                    
+.idea/                          
+src/                            
   └── com/
-        └── sargam/             # Main code directory
-            └── Album.java     # Album class implementation
-            └── Song.java      # Song class implementation
-            └── Main.java      # Main application logic
+        └── sargam/             
+            └── Album.java
+            └── Song.java
+            └── Main.java     
             
 # Design Decisions
 
